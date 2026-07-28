@@ -1,5 +1,5 @@
 {
   "version": "1.0.3",
-  "url": "https://github.com/faycalseg1-ui/fass-platform-releases/releases/download/v1.0.2/FASS.Platform.Setup.1.0.2.exe",
-  "releaseNotes": "تحديث جديد (v1.0.3):\n- تحسين واجهة تقارير الوردية (PDF).\n- إصلاح ألوان الجداول وتداخل النصوص."
+  "url": "https://github.com/faycalseg1-ui/fass-platform-releases/releases/download/v1.0.3/FASS.Platform.Setup.1.0.3.exe",
+  "releaseNotes": "تحديث الإصدار (v1.0.3):\n- تحسين واجهة تقارير الوردية (PDF).\n- إصلاح ألوان الجداول وتداخل النصوص.\n- إصلاح ربط الـ SWAP بالتقرير."
 }
