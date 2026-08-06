@@ -1,5 +1,5 @@
 {
-  "version": "1.0.6",
-  "url": "https://github.com/faycalseg1-ui/fass-platform-releases/releases/download/v1.0.6/FASS.Platform.Setup.1.0.6.exe",
-  "releaseNotes": "تحديث الإصدار (v1.0.6):\n- إصلاح العداد الزمني للآلة/السلسلة عند تبديل العمال (SWAP) لكي يستمر بالدوران دون إعادة ضبطه لصفر."
+  "version": "1.0.9",
+  "url": "https://github.com/faycalseg1-ui/fass-platform-releases/releases/download/v1.0.9/FASS.Platform.Setup.1.0.9.exe",
+  "releaseNotes": "تحديث الإصدار (v1.0.9):\n- إضافة تبويب الموظفين (Employees) في الإدارة المالية مع سجل مالي شامل، تسليم الرواتب، الدفعات/التسبيرات، والمكافآت والخصومات لكل موظف."
 }
