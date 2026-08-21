@@ -1,5 +1,5 @@
 {
-  "version": "1.2.2",
-  "url": "https://github.com/faycalseg1-ui/fass-platform-releases/releases/download/v1.2.2/FASS.Platform.Setup.1.2.2.exe",
-  "releaseNotes": "تحديث الإصدار (v1.2.2):\n- تفعيل الدخول الاوفلاين الشامل (Global Offline Login): تم استخراج ودمج جميع حسابات مستخدمي النظام الفعلية في وضع عدم الاتصال.\n- الآن يمكن لأي مستخدم (المدير، المبيعات، المالية، إلخ) تسجيل الدخول بدون إنترنت من أي جهاز سطح مكتب جديد باستخدام البريد الإلكتروني وكلمة المرور الخاصة به، حتى لو لم يقم بتسجيل الدخول عليه مسبقاً."
+  "version": "1.2.3",
+  "url": "https://github.com/faycalseg1-ui/fass-platform-releases/releases/download/v1.2.3/FASS.Platform.Setup.1.2.3.exe",
+  "releaseNotes": "تحديث الإصدار (v1.2.3):\n- إصلاح ظهور أيقونة البرنامج الأصلية (FASS Platform) على سطح المكتب وشريط المهام بدلاً من الأيقونة الافتراضية.\n- تحسينات إضافية على الاستقرار والأداء."
 }
