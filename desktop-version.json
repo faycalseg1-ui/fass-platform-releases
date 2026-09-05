@@ -1,5 +1,5 @@
 {
-  "version": "1.2.5",
-  "url": "https://github.com/faycalseg1-ui/fass-platform-releases/releases/download/1.2.5/FASS.Platform.Setup.1.2.5.exe",
-  "releaseNotes": "تحديث الإصدار (v1.2.5):\n- تضمين أحدث التعديلات والتحسينات على لوحات الإنتاج والمستودع.\n- دعم شاشة الإنتاج للموبايل ضمن التطبيق.\n- تحسينات عامة على استقرار المزامنة والأداء."
+  "version": "1.2.6",
+  "url": "https://github.com/faycalseg1-ui/fass-platform-releases/releases/download/1.2.6/FASS.Platform.Setup.1.2.6.exe",
+  "releaseNotes": "تحديث الإصدار (v1.2.6):\n- تحديثات قسم المالية: إضافة تفاصيل وعاء الزكاة (السيولة، المخزون، الديون المرجوة، والالتزامات) مع إمكانية التعديل وعرض الكشف التحليلي.\n- تحديثات قسم المستودع: إضافة سجل استلام الشحنات ومطالبات الموردين.\n- تحسينات عامة على الأداء والمزامنة."
 }
