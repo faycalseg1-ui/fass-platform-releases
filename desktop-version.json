@@ -1,5 +1,5 @@
 {
-  "version": "1.2.7",
-  "url": "https://github.com/faycalseg1-ui/fass-platform-releases/releases/download/1.2.7/FASS.Platform.Setup.1.2.7.exe",
-  "releaseNotes": "تحديث الإصدار (v1.2.7):\n- نسخة نظيفة وجاهزة للعمل.\n- تتضمن كافة التحديثات الأخيرة لقسم المالية، المستودع، والإنتاج."
+  "version": "1.2.9",
+  "url": "https://github.com/faycalseg1-ui/fass-platform-releases/releases/download/1.2.9/FASS.Platform.Setup.1.2.9.exe",
+  "releaseNotes": "تحديث الإصدار (v1.2.9):\n- حل مشكلة عدم ظهور المنتجات والمواد الأولية في أنظمة Windows 7 بدون إنترنت عبر التخزين المحلي الفوري.\n- تثبيت المنفذ الداخلي للمنصة لضمان بقاء البيانات المخزنة (IndexedDB & LocalStorage) عبر إعادة التشغيل.\n- إضافة ميزة الاستيراد التلقائي للطلبيات من ملفات PDF الصادرة من موقع الإدارة.\n- تصحيح تسلسل أرقام الطلبيات لتبدأ دائماً من FASS-0001."
 }
